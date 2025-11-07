@@ -1,0 +1,99 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.9\u001b[0m","timestamp":1762497456835}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1762497456943}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:9f05bq\u001b[0m","timestamp":1762497456945}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1762497456949}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:3yhbyh\u001b[0m","timestamp":1762497456951}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1762497457183}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:ggjlan\u001b[0m","timestamp":1762497457184}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:dgcpop\u001b[0m","timestamp":1762497457198}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1762497457203}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:3ya7md\u001b[0m","timestamp":1762497457205}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:fg40ae\u001b[0m","timestamp":1762497457208}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:t0oel2\u001b[0m","timestamp":1762497457211}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:7tevmv\u001b[0m","timestamp":1762497457214}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:3xlfin\u001b[0m","timestamp":1762497457218}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:0txjs9\u001b[0m","timestamp":1762497457357}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:57mrih\u001b[0m","timestamp":1762497457360}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:55ot33\u001b[0m","timestamp":1762497457370}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcron:e1svda\u001b[0m","timestamp":1762497457374}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1762497457401}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:35txu0\u001b[0m","timestamp":1762497457402}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:dxji6i\u001b[0m","timestamp":1762497457405}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:zhjval\u001b[0m","timestamp":1762497457408}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:7doiuf\u001b[0m","timestamp":1762497457445}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:9x4lj9\u001b[0m","timestamp":1762497457494}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:ikvgc1\u001b[0m","timestamp":1762497457499}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ibmdct\u001b[0m","timestamp":1762497457519}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:e4b9ai\u001b[0m","timestamp":1762497457523}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:mzxv5t\u001b[0m","timestamp":1762497457527}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:9p3de4\u001b[0m","timestamp":1762497457531}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:3de9mw\u001b[0m","timestamp":1762497457533}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:1yqxw0\u001b[0m","timestamp":1762497457540}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:meiqf1\u001b[0m","timestamp":1762497457581}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1762497457584}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:80p6y4\u001b[0m","timestamp":1762497457585}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mauth:qkkzfg\u001b[0m","timestamp":1762497457586}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:eqa0mt\u001b[0m","timestamp":1762497457588}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpuppeteer:jfs4k5\u001b[0m","timestamp":1762497457611}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fz8x6w\u001b[0m","timestamp":1762497458098}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna:e7roe6\u001b[0m","timestamp":1762497458100}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-another-public-api-adapter:dtuhf0\u001b[0m","timestamp":1762497458734}
+{"id":41,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:1curgv\u001b[0m","timestamp":1762497458749}
+{"id":42,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:niv8zn\u001b[0m","timestamp":1762497458751}
+{"id":43,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:35o99d\u001b[0m","timestamp":1762497458752}
+{"id":44,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mxhs-analyse:8vl27z\u001b[0m","timestamp":1762497458754}
+{"id":45,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpixluna:5h1j7q\u001b[0m","timestamp":1762497458758}
+{"id":46,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fgi9pu\u001b[0m","timestamp":1762497458863}
+{"id":47,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbetter-custom-welcome-message:e6kw09\u001b[0m","timestamp":1762497458873}
+{"id":48,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpoke:j7es53\u001b[0m","timestamp":1762497458877}
+{"id":49,"type":"info","level":2,"name":"assets","meta":{"paths":["dgcpop"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1762497458904}
+{"id":50,"type":"info","level":2,"name":"puppeteer","meta":{"paths":["jfs4k5"]},"content":"chrome executable found at \u001b[38;5;201m/usr/bin/chromium\u001b[0m","timestamp":1762497459156}
+{"id":51,"type":"info","level":2,"name":"server","meta":{"paths":["3yhbyh"]},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1762497459184}
+{"id":52,"type":"info","level":2,"name":"console","meta":{"paths":["7doiuf"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1762497459185}
+{"id":53,"type":"info","level":2,"name":"auth","meta":{"paths":["qkkzfg"]},"content":"creating admin account","timestamp":1762497459458}
+{"id":60,"type":"success","level":1,"name":"chatluna-another-public-api-adapter","meta":{"paths":["dtuhf0"]},"content":"Plugin \u001b[38;5;45mpublic-api\u001b[0m installed","timestamp":1762497459685}
+{"id":144,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-plugin-common:0lezog\u001b[0m","timestamp":1762497547547}
+{"id":145,"type":"success","level":1,"name":"chatluna-plugin-common","meta":{"paths":[]},"content":"Plugin \u001b[38;5;149mplugin-common\u001b[0m installed","timestamp":1762497547550}
+{"id":147,"type":"info","level":2,"name":"sqlite","meta":{"paths":["ggjlan"]},"content":"auto creating table \u001b[38;5;170mchatluna_cron_task\u001b[0m","timestamp":1762497547568}
+{"id":172,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mffmpeg:0gmkz3\u001b[0m","timestamp":1762497607002}
+{"id":173,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmusic-voice:yioo8g\u001b[0m","timestamp":1762497625700}
+{"id":174,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msmmcat-setu:o65v0j\u001b[0m","timestamp":1762497631283}
+{"id":175,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45msmmcat-setu:o65v0j\u001b[0m","timestamp":1762497637643}
+{"id":176,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45mpixluna:5h1j7q\u001b[0m","timestamp":1762497657587}
+{"id":177,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msmmcat-setu:o65v0j\u001b[0m","timestamp":1762497660644}
+{"id":178,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45msmmcat-setu:o65v0j\u001b[0m","timestamp":1762497663163}
+{"id":179,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45meat-what:dj22b9\u001b[0m","timestamp":1762497672708}
+{"id":180,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msmmcat-faqcooking:v6jj1d\u001b[0m","timestamp":1762497676862}
+{"id":181,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45msmmcat-faqcooking:v6jj1d\u001b[0m","timestamp":1762497682478}
+{"id":182,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbilibili-notify:i1kojz\u001b[0m","timestamp":1762497693021}
+{"id":184,"type":"info","level":2,"name":"sqlite","meta":{"paths":["ggjlan"]},"content":"auto creating table \u001b[38;5;170mloginBili\u001b[0m","timestamp":1762497693042}
+{"id":210,"type":"info","level":2,"name":"bilibili-notify-core","meta":{"paths":["i1kojz"]},"content":"初始化插件中...","timestamp":1762497693721}
+{"id":213,"type":"info","level":2,"name":"bilibili-notify-core","meta":{"paths":["i1kojz"]},"content":"账号未登录，请登录","timestamp":1762497693752}
+{"id":214,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpixluna:5h1j7q\u001b[0m","timestamp":1762497699901}
+{"id":215,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msehu-zaoan:4vu54y\u001b[0m","timestamp":1762497706701}
+{"id":217,"type":"info","level":2,"name":"sqlite","meta":{"paths":["ggjlan"]},"content":"auto creating table \u001b[38;5;170mdaily_greetings\u001b[0m","timestamp":1762497706715}
+{"id":243,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchoice:672671\u001b[0m","timestamp":1762497714494}
+{"id":244,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mjrys-prpr:gvjpdd\u001b[0m","timestamp":1762497717434}
+{"id":246,"type":"info","level":2,"name":"sqlite","meta":{"paths":["ggjlan"]},"content":"auto creating table \u001b[38;5;170mjrysprprdata\u001b[0m","timestamp":1762497717477}
+{"id":273,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mone-last-image:okbsim\u001b[0m","timestamp":1762497721157}
+{"id":274,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45memojis:k9gc8x\u001b[0m","timestamp":1762497724180}
+{"id":275,"type":"info","level":2,"name":"emojis","meta":{"paths":[]},"content":"元数据文件不存在，尝试下载","timestamp":1762497724182}
+{"id":276,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbilibili-videolink-analysis:ixzkce\u001b[0m","timestamp":1762497727793}
+{"id":277,"type":"info","level":2,"name":"emojis","meta":{"paths":["k9gc8x"]},"content":"开始更新文件","timestamp":1762497730206}
+{"id":278,"type":"info","level":2,"name":"emojis","meta":{"paths":["k9gc8x"]},"content":"下载成功","timestamp":1762497730564}
+{"id":279,"type":"info","level":2,"name":"emojis","meta":{"paths":["k9gc8x"]},"content":"元数据文件下载成功","timestamp":1762497730564}
+{"id":280,"type":"info","level":2,"name":"emojis","meta":{"paths":["k9gc8x"]},"content":"元数据加载完成","timestamp":1762497733751}
+{"id":281,"type":"info","level":2,"name":"market","meta":{},"content":"Yarn 4.1.1","timestamp":1762497803865}
+{"id":282,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1762497803907}
+{"id":283,"type":"info","level":2,"name":"market","meta":{},"content":"- koishi-plugin-smmcat-setu@npm:0.0.15","timestamp":1762497804272}
+{"id":284,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 462ms","timestamp":1762497804371}
+{"id":285,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1762497804377}
+{"id":288,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1762497804378}
+{"id":289,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Fetch step","timestamp":1762497804380}
+{"id":290,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 850ms","timestamp":1762497805230}
+{"id":291,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1762497805332}
+{"id":292,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 456ms","timestamp":1762497805787}
+{"id":294,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45mpixluna:5h1j7q\u001b[0m","timestamp":1762497888561}
+{"id":295,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpixluna:5h1j7q\u001b[0m","timestamp":1762497891636}
+{"id":296,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45mcommands:3ya7md\u001b[0m","timestamp":1762497898520}
+{"id":297,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:3ya7md\u001b[0m","timestamp":1762497900024}

@@ -1,0 +1,69 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.9\u001b[0m","timestamp":1762497357572}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1762497357650}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:9f05bq\u001b[0m","timestamp":1762497357654}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1762497357657}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:3yhbyh\u001b[0m","timestamp":1762497357659}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1762497357814}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:ggjlan\u001b[0m","timestamp":1762497357815}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:dgcpop\u001b[0m","timestamp":1762497357835}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1762497357843}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:3ya7md\u001b[0m","timestamp":1762497357844}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:fg40ae\u001b[0m","timestamp":1762497357849}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:t0oel2\u001b[0m","timestamp":1762497357856}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:7tevmv\u001b[0m","timestamp":1762497357858}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:3xlfin\u001b[0m","timestamp":1762497357863}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:0txjs9\u001b[0m","timestamp":1762497358071}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:57mrih\u001b[0m","timestamp":1762497358076}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:55ot33\u001b[0m","timestamp":1762497358095}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcron:e1svda\u001b[0m","timestamp":1762497358099}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1762497358148}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:35txu0\u001b[0m","timestamp":1762497358153}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:dxji6i\u001b[0m","timestamp":1762497358156}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:zhjval\u001b[0m","timestamp":1762497358161}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:7doiuf\u001b[0m","timestamp":1762497358208}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:9x4lj9\u001b[0m","timestamp":1762497358257}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:ikvgc1\u001b[0m","timestamp":1762497358276}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ibmdct\u001b[0m","timestamp":1762497358297}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:e4b9ai\u001b[0m","timestamp":1762497358306}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:mzxv5t\u001b[0m","timestamp":1762497358311}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:9p3de4\u001b[0m","timestamp":1762497358316}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:3de9mw\u001b[0m","timestamp":1762497358319}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:1yqxw0\u001b[0m","timestamp":1762497358325}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:meiqf1\u001b[0m","timestamp":1762497358361}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1762497358364}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:80p6y4\u001b[0m","timestamp":1762497358365}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mauth:qkkzfg\u001b[0m","timestamp":1762497358366}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:eqa0mt\u001b[0m","timestamp":1762497358371}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpuppeteer:jfs4k5\u001b[0m","timestamp":1762497358403}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fz8x6w\u001b[0m","timestamp":1762497358876}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna:e7roe6\u001b[0m","timestamp":1762497358877}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-another-public-api-adapter:dtuhf0\u001b[0m","timestamp":1762497359448}
+{"id":41,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:1curgv\u001b[0m","timestamp":1762497359463}
+{"id":42,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:niv8zn\u001b[0m","timestamp":1762497359464}
+{"id":43,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:35o99d\u001b[0m","timestamp":1762497359465}
+{"id":44,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mxhs-analyse:8vl27z\u001b[0m","timestamp":1762497359465}
+{"id":45,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpixluna:5h1j7q\u001b[0m","timestamp":1762497359468}
+{"id":46,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fgi9pu\u001b[0m","timestamp":1762497359522}
+{"id":47,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbetter-custom-welcome-message:e6kw09\u001b[0m","timestamp":1762497359524}
+{"id":48,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpoke:j7es53\u001b[0m","timestamp":1762497359527}
+{"id":49,"type":"info","level":2,"name":"assets","meta":{"paths":["dgcpop"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1762497359572}
+{"id":50,"type":"info","level":2,"name":"puppeteer","meta":{"paths":["jfs4k5"]},"content":"chrome executable found at \u001b[38;5;201m/usr/bin/chromium\u001b[0m","timestamp":1762497359893}
+{"id":51,"type":"info","level":2,"name":"server","meta":{"paths":["3yhbyh"]},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1762497359942}
+{"id":52,"type":"info","level":2,"name":"console","meta":{"paths":["7doiuf"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1762497359943}
+{"id":53,"type":"info","level":2,"name":"auth","meta":{"paths":["qkkzfg"]},"content":"creating admin account","timestamp":1762497360231}
+{"id":60,"type":"success","level":1,"name":"chatluna-another-public-api-adapter","meta":{"paths":["dtuhf0"]},"content":"Plugin \u001b[38;5;45mpublic-api\u001b[0m installed","timestamp":1762497360382}
+{"id":144,"type":"info","level":2,"name":"market","meta":{},"content":"Yarn 4.1.1","timestamp":1762497450987}
+{"id":145,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1762497451007}
+{"id":146,"type":"info","level":2,"name":"market","meta":{},"content":"+ koishi-plugin-chatluna-deepseek-adapter@npm:1.3.0-alpha.15, koishi-plugin-chatluna-google-gemini-adapter@npm:1.3.0-alpha.23, and 7 more.","timestamp":1762497452205}
+{"id":147,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 1s 231ms","timestamp":1762497452239}
+{"id":148,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1762497452242}
+{"id":151,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1762497452243}
+{"id":152,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Fetch step","timestamp":1762497452243}
+{"id":153,"type":"info","level":2,"name":"market","meta":{},"content":"9 packages were added to the project (+ 1.38 MiB).","timestamp":1762497453951}
+{"id":154,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 1s 708ms","timestamp":1762497453962}
+{"id":155,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1762497454035}
+{"id":156,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 659ms","timestamp":1762497454695}
+{"id":158,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-chatluna-google-gemini-adapter'\nRequire stack:\n- /koishi/node_modules/@koishijs/plugin-market/lib/node/index.js\n- /koishi/node_modules/@koishijs/loader/lib/index.js\n- /koishi/node_modules/koishi/lib/worker/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:546:20)\n    at async WebSocket.receive (/koishi/node_modules/@koishijs/plugin-console/node_modules/@koishijs/console/lib/index.js:127:21)","timestamp":1762497456162}
+{"id":159,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-chatluna-openai-like-adapter'\nRequire stack:\n- /koishi/node_modules/@koishijs/plugin-market/lib/node/index.js\n- /koishi/node_modules/@koishijs/loader/lib/index.js\n- /koishi/node_modules/koishi/lib/worker/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:546:20)\n    at async WebSocket.receive (/koishi/node_modules/@koishijs/plugin-console/node_modules/@koishijs/console/lib/index.js:127:21)","timestamp":1762497456170}
+{"id":160,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-chatluna-deepseek-adapter'\nRequire stack:\n- /koishi/node_modules/@koishijs/plugin-market/lib/node/index.js\n- /koishi/node_modules/@koishijs/loader/lib/index.js\n- /koishi/node_modules/koishi/lib/worker/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:546:20)\n    at async WebSocket.receive (/koishi/node_modules/@koishijs/plugin-console/node_modules/@koishijs/console/lib/index.js:127:21)","timestamp":1762497456172}
+{"id":161,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-chatluna-plugin-common'\nRequire stack:\n- /koishi/node_modules/@koishijs/plugin-market/lib/node/index.js\n- /koishi/node_modules/@koishijs/loader/lib/index.js\n- /koishi/node_modules/koishi/lib/worker/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:546:20)\n    at async WebSocket.receive (/koishi/node_modules/@koishijs/plugin-console/node_modules/@koishijs/console/lib/index.js:127:21)","timestamp":1762497456175}

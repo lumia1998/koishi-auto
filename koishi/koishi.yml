@@ -1,0 +1,137 @@
+plugins:
+  group:9f05bq:
+    group:server:
+      $collapsed: true
+      server:3yhbyh:
+        port: 5140
+        maxPort: 5149
+        host: 0.0.0.0
+      ~server-satori:alzi46: {}
+      ~server-temp:x3p2a7: {}
+    group:storage:
+      $collapsed: true
+      ~database-mongo:infdnt:
+        database: koishi
+      ~database-mysql:vrsowz:
+        database: koishi
+      ~database-postgres:d6z9j9:
+        database: koishi
+      database-sqlite:ggjlan:
+        path: data/koishi.db
+      assets-local:dgcpop: {}
+    group:basic:
+      $collapsed: true
+      ~admin:da1ts1: {}
+      ~bind:grot6j: {}
+      commands:3ya7md: {}
+      help:fg40ae: {}
+      http:t0oel2: {}
+      ~inspect:ktjzot: {}
+      locales:7tevmv: {}
+      proxy-agent:3xlfin: {}
+      rate-limit:0txjs9: {}
+      telemetry:57mrih: {}
+      group:55ot33:
+        $label: 系统配置
+      cron:e1svda: {}
+      ffmpeg:0gmkz3: {}
+    group:console:
+      $collapsed: true
+      actions:35txu0: {}
+      analytics:dxji6i: {}
+      android:1q6kzl:
+        $if: env.KOISHI_AGENT?.includes('Android')
+      config:zhjval: {}
+      console:7doiuf:
+        open: true
+      dataview:9x4lj9: {}
+      desktop:va8pe7:
+        $if: env.KOISHI_AGENT?.includes('Desktop')
+      explorer:ikvgc1: {}
+      logger:ibmdct: {}
+      insight:e4b9ai: {}
+      notifier:mzxv5t: {}
+      oobe:9p3de4: {}
+      sandbox:3de9mw: {}
+      status:1yqxw0: {}
+      theme-vanilla:meiqf1: {}
+    $label: 杂七乱八
+  group:adapter:
+    $collapsed: true
+    ~adapter-discord:8bn7hk: {}
+    ~adapter-kook:qeflzq: {}
+    ~adapter-qq:n3cme6: {}
+    ~adapter-satori:5gm4bx: {}
+    ~adapter-slack:ka6bbz: {}
+    ~adapter-telegram:vc56ir: {}
+    ~adapter-wechat-official:flb4wn: {}
+    ~adapter-wecom:qww7h0: {}
+    ~adapter-whatsapp:p40jwh: {}
+    ~adapter-zulip:g8du3y: {}
+  group:80p6y4:
+    auth:qkkzfg:
+      admin:
+        password: admin
+    market:eqa0mt:
+      search:
+        endpoint: >-
+          https://gitee.com/shangxueink/koishi-registry-aggregator/raw/gh-pages/market.json
+    $label: 系统配置
+    ~adapter-onebot:zgi6og: {}
+    ~change-auth-callme:dzfcmg: {}
+    puppeteer:jfs4k5:
+      args:
+        - '--no-sandbox'
+        - '--disable-gpu'
+  group:develop:
+    $if: env.NODE_ENV === 'development'
+    hmr:o8w3te:
+      root: .
+  group:fz8x6w:
+    $label: ai
+    chatluna-plugin-common:0lezog:
+      group: true
+    chatluna:e7roe6:
+      botNames:
+        - 猫娘
+      allowQuoteReply: true
+      randomReplyFrequency: 0.07
+      defaultModel: public-api/pearktrue
+      defaultPreset: 猫娘
+      isLog: true
+    chatluna-another-public-api-adapter:dtuhf0: {}
+    ~chatluna-group-analysis:8ppuce:
+      cronSchedule: 0 22 * * *
+      model: public-api/pearktrue
+    ~chatluna-deepseek-adapter:tz8gl6: {}
+    ~chatluna-google-gemini-adapter:pi886h: {}
+    ~chatluna-openai-like-adapter:trtlqb: {}
+  group:1curgv:
+    $label: 功能
+    music-voice:yioo8g: {}
+    jrys-prpr:gvjpdd: {}
+    choice:672671: {}
+  group:niv8zn:
+    $label: 趣味
+    emojis:k9gc8x: {}
+    one-last-image:okbsim: {}
+  group:35o99d:
+    eat-what:dj22b9: {}
+    ~smmcat-faqcooking:v6jj1d: {}
+    $label: 信息检索
+    bilibili-notify:i1kojz:
+      userAgent: admin
+      key: 9b8db7ae562b9864efefe06289cc5530
+    bilibili-videolink-analysis:ixzkce: {}
+    xhs-analyse:8vl27z: {}
+    pixluna:5h1j7q:
+      pixiv:
+        userId: admin
+        phpSESSID: admin
+  group:fgi9pu:
+    $label: QQ
+    ~verifier-code:7zy821: {}
+    better-custom-welcome-message:e6kw09: {}
+    poke:j7es53: {}
+    ~message-counter:tsx8l0: {}
+    sehu-zaoan:4vu54y: {}

@@ -1,0 +1,126 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.9\u001b[0m","timestamp":1762496082794}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1762496082861}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:9f05bq\u001b[0m","timestamp":1762496082862}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1762496082864}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:3yhbyh\u001b[0m","timestamp":1762496082866}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1762496082978}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:3ya7md\u001b[0m","timestamp":1762496082979}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:fg40ae\u001b[0m","timestamp":1762496082982}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:t0oel2\u001b[0m","timestamp":1762496082985}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:7tevmv\u001b[0m","timestamp":1762496082986}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:3xlfin\u001b[0m","timestamp":1762496082989}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:0txjs9\u001b[0m","timestamp":1762496083073}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:57mrih\u001b[0m","timestamp":1762496083075}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:55ot33\u001b[0m","timestamp":1762496083087}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1762496083088}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:ggjlan\u001b[0m","timestamp":1762496083089}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:dgcpop\u001b[0m","timestamp":1762496083109}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1762496083113}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:35txu0\u001b[0m","timestamp":1762496083114}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:dxji6i\u001b[0m","timestamp":1762496083116}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:zhjval\u001b[0m","timestamp":1762496083118}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:7doiuf\u001b[0m","timestamp":1762496083145}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:9x4lj9\u001b[0m","timestamp":1762496083160}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:ikvgc1\u001b[0m","timestamp":1762496083166}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ibmdct\u001b[0m","timestamp":1762496083185}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:e4b9ai\u001b[0m","timestamp":1762496083187}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:mzxv5t\u001b[0m","timestamp":1762496083189}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:9p3de4\u001b[0m","timestamp":1762496083191}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:3de9mw\u001b[0m","timestamp":1762496083192}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:1yqxw0\u001b[0m","timestamp":1762496083195}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:meiqf1\u001b[0m","timestamp":1762496083231}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1762496083240}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:80p6y4\u001b[0m","timestamp":1762496083240}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mauth:qkkzfg\u001b[0m","timestamp":1762496083241}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:eqa0mt\u001b[0m","timestamp":1762496083244}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fz8x6w\u001b[0m","timestamp":1762496083271}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:1curgv\u001b[0m","timestamp":1762496083272}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:niv8zn\u001b[0m","timestamp":1762496083273}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:35o99d\u001b[0m","timestamp":1762496083273}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fgi9pu\u001b[0m","timestamp":1762496083274}
+{"id":41,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbetter-custom-welcome-message:e6kw09\u001b[0m","timestamp":1762496083275}
+{"id":42,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpoke:j7es53\u001b[0m","timestamp":1762496083285}
+{"id":43,"type":"info","level":2,"name":"assets","meta":{"paths":["dgcpop"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1762496083353}
+{"id":44,"type":"info","level":2,"name":"server","meta":{"paths":["3yhbyh"]},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1762496083557}
+{"id":45,"type":"info","level":2,"name":"console","meta":{"paths":["7doiuf"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1762496083558}
+{"id":46,"type":"info","level":2,"name":"auth","meta":{"paths":["qkkzfg"]},"content":"creating admin account","timestamp":1762496083631}
+{"id":86,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-actions","timestamp":1762496084821}
+{"id":87,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-adapter-discord","timestamp":1762496084821}
+{"id":88,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-adapter-kook","timestamp":1762496084822}
+{"id":89,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-adapter-qq","timestamp":1762496084822}
+{"id":90,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-adapter-satori","timestamp":1762496084822}
+{"id":91,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-adapter-telegram","timestamp":1762496084823}
+{"id":92,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-admin","timestamp":1762496084823}
+{"id":93,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-analytics","timestamp":1762496084823}
+{"id":94,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-auth","timestamp":1762496084823}
+{"id":95,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-bind","timestamp":1762496084823}
+{"id":97,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-commands","timestamp":1762496084849}
+{"id":98,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-config","timestamp":1762496084851}
+{"id":99,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-console","timestamp":1762496084851}
+{"id":100,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-database-sqlite","timestamp":1762496084851}
+{"id":101,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-explorer","timestamp":1762496084851}
+{"id":102,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-help","timestamp":1762496084852}
+{"id":103,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-http","timestamp":1762496084852}
+{"id":104,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-insight","timestamp":1762496084852}
+{"id":105,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-inspect","timestamp":1762496084852}
+{"id":106,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-locales","timestamp":1762496084852}
+{"id":107,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-logger","timestamp":1762496084892}
+{"id":108,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-market","timestamp":1762496084893}
+{"id":109,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-notifier","timestamp":1762496084893}
+{"id":110,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-oobe","timestamp":1762496084893}
+{"id":111,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-proxy-agent","timestamp":1762496084893}
+{"id":112,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-sandbox","timestamp":1762496084894}
+{"id":113,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-server","timestamp":1762496084894}
+{"id":114,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-server-satori","timestamp":1762496084894}
+{"id":115,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-server-temp","timestamp":1762496084894}
+{"id":116,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /@koishijs/plugin-status","timestamp":1762496084894}
+{"id":117,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi","timestamp":1762496084906}
+{"id":118,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-adapter-onebot","timestamp":1762496084906}
+{"id":119,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-android","timestamp":1762496084906}
+{"id":120,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-assets-local","timestamp":1762496084907}
+{"id":121,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-better-custom-welcome-message","timestamp":1762496084907}
+{"id":122,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-bilibili-notify","timestamp":1762496084907}
+{"id":123,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-bilibili-videolink-analysis","timestamp":1762496084907}
+{"id":124,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-change-auth-callme","timestamp":1762496084907}
+{"id":125,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-chatluna","timestamp":1762496084908}
+{"id":126,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-chatluna-another-public-api-adapter","timestamp":1762496084908}
+{"id":127,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-chatluna-group-analysis","timestamp":1762496084922}
+{"id":128,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-choose","timestamp":1762496084923}
+{"id":129,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-dataview","timestamp":1762496084924}
+{"id":130,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-desktop","timestamp":1762496084924}
+{"id":131,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-eat-what","timestamp":1762496084924}
+{"id":132,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-emojis","timestamp":1762496084924}
+{"id":133,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-jrys-prpr","timestamp":1762496084924}
+{"id":134,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-message-counter","timestamp":1762496084924}
+{"id":135,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-music-voice","timestamp":1762496084924}
+{"id":136,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-one-last-image","timestamp":1762496084924}
+{"id":137,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-pixluna","timestamp":1762496084938}
+{"id":138,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-poke","timestamp":1762496084939}
+{"id":139,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-puppeteer","timestamp":1762496084939}
+{"id":140,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-rate-limit","timestamp":1762496084939}
+{"id":141,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-sehu-zaoan","timestamp":1762496084940}
+{"id":142,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-smmcat-delsetu","timestamp":1762496084940}
+{"id":143,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-smmcat-faqcooking","timestamp":1762496084940}
+{"id":144,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-smmcat-warmgroup","timestamp":1762496084940}
+{"id":145,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-telemetry","timestamp":1762496084940}
+{"id":146,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-theme-vanilla","timestamp":1762496084940}
+{"id":147,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-verifier-code","timestamp":1762496084942}
+{"id":148,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-xhs-analyse","timestamp":1762496084942}
+{"id":153,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mjrys-prpr:gvjpdd\u001b[0m","timestamp":1762496125117}
+{"id":154,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45mjrys-prpr:gvjpdd\u001b[0m","timestamp":1762496127803}
+{"id":155,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-adapter-iirose","timestamp":1762496289634}
+{"id":156,"type":"warn","level":2,"name":"market","meta":{},"content":"Invalid URL: /koishi-plugin-smmcat-setu","timestamp":1762496302122}
+{"id":157,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45mmarket:eqa0mt\u001b[0m","timestamp":1762496322410}
+{"id":158,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:eqa0mt\u001b[0m","timestamp":1762496324977}
+{"id":159,"type":"info","level":2,"name":"market","meta":{},"content":"Yarn 4.1.1","timestamp":1762496336466}
+{"id":160,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1762496336486}
+{"id":161,"type":"info","level":2,"name":"market","meta":{},"content":"+ koishi-plugin-smmcat-setu@npm:0.0.15","timestamp":1762496337237}
+{"id":162,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 876ms","timestamp":1762496337363}
+{"id":163,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1762496337367}
+{"id":166,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1762496337369}
+{"id":167,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Fetch step","timestamp":1762496337373}
+{"id":168,"type":"info","level":2,"name":"market","meta":{},"content":"A package was added to the project (+ 25.55 KiB).","timestamp":1762496338865}
+{"id":169,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 1s 492ms","timestamp":1762496338866}
+{"id":170,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1762496338937}
+{"id":171,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 461ms","timestamp":1762496339398}
+{"id":173,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-smmcat-setu'\nRequire stack:\n- /koishi/node_modules/@koishijs/plugin-market/lib/node/index.js\n- /koishi/node_modules/@koishijs/loader/lib/index.js\n- /koishi/node_modules/koishi/lib/worker/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:546:20)\n    at async WebSocket.receive (/koishi/node_modules/@koishijs/plugin-console/node_modules/@koishijs/console/lib/index.js:127:21)","timestamp":1762496340907}

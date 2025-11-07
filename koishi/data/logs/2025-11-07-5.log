@@ -1,0 +1,62 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.9\u001b[0m","timestamp":1762494828298}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1762494828386}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:9f05bq\u001b[0m","timestamp":1762494828388}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1762494828389}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:3yhbyh\u001b[0m","timestamp":1762494828390}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1762494828583}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:3ya7md\u001b[0m","timestamp":1762494828586}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:fg40ae\u001b[0m","timestamp":1762494828591}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:t0oel2\u001b[0m","timestamp":1762494828594}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:7tevmv\u001b[0m","timestamp":1762494828595}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:3xlfin\u001b[0m","timestamp":1762494828601}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:0txjs9\u001b[0m","timestamp":1762494828695}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:57mrih\u001b[0m","timestamp":1762494828698}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:55ot33\u001b[0m","timestamp":1762494828708}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1762494828709}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:ggjlan\u001b[0m","timestamp":1762494828710}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:dgcpop\u001b[0m","timestamp":1762494828729}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1762494828733}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:35txu0\u001b[0m","timestamp":1762494828734}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:dxji6i\u001b[0m","timestamp":1762494828736}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:zhjval\u001b[0m","timestamp":1762494828738}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:7doiuf\u001b[0m","timestamp":1762494828762}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:9x4lj9\u001b[0m","timestamp":1762494828775}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:ikvgc1\u001b[0m","timestamp":1762494828777}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ibmdct\u001b[0m","timestamp":1762494828798}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:e4b9ai\u001b[0m","timestamp":1762494828801}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:mzxv5t\u001b[0m","timestamp":1762494828803}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:9p3de4\u001b[0m","timestamp":1762494828805}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:3de9mw\u001b[0m","timestamp":1762494828810}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:1yqxw0\u001b[0m","timestamp":1762494828820}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:meiqf1\u001b[0m","timestamp":1762494828855}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1762494828857}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:80p6y4\u001b[0m","timestamp":1762494828858}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mauth:qkkzfg\u001b[0m","timestamp":1762494828859}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:eqa0mt\u001b[0m","timestamp":1762494828862}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fz8x6w\u001b[0m","timestamp":1762494828889}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:1curgv\u001b[0m","timestamp":1762494828890}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:niv8zn\u001b[0m","timestamp":1762494828890}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:35o99d\u001b[0m","timestamp":1762494828891}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:fgi9pu\u001b[0m","timestamp":1762494828892}
+{"id":41,"type":"info","level":2,"name":"assets","meta":{"paths":["dgcpop"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1762494829001}
+{"id":42,"type":"info","level":2,"name":"server","meta":{"paths":["3yhbyh"]},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1762494829296}
+{"id":43,"type":"info","level":2,"name":"console","meta":{"paths":["7doiuf"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1762494829305}
+{"id":44,"type":"info","level":2,"name":"auth","meta":{"paths":["qkkzfg"]},"content":"creating admin account","timestamp":1762494829446}
+{"id":89,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbetter-custom-welcome-message:e6kw09\u001b[0m","timestamp":1762495128344}
+{"id":90,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpoke:j7es53\u001b[0m","timestamp":1762495134384}
+{"id":91,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmessage-counter:tsx8l0\u001b[0m","timestamp":1762495137202}
+{"id":92,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45mmessage-counter:tsx8l0\u001b[0m","timestamp":1762495140857}
+{"id":93,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msehu-zaoan:4vu54y\u001b[0m","timestamp":1762495199296}
+{"id":94,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"unload plugin \u001b[38;5;45msehu-zaoan:4vu54y\u001b[0m","timestamp":1762495236929}
+{"id":95,"type":"info","level":2,"name":"market","meta":{},"content":"Yarn 4.1.1","timestamp":1762495256317}
+{"id":96,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1762495256333}
+{"id":97,"type":"info","level":2,"name":"market","meta":{},"content":"+ koishi-plugin-change-auth-callme@npm:1.3.5","timestamp":1762495256819}
+{"id":98,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 506ms","timestamp":1762495256840}
+{"id":99,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1762495256841}
+{"id":102,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1762495256842}
+{"id":103,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Fetch step","timestamp":1762495256843}
+{"id":104,"type":"info","level":2,"name":"market","meta":{},"content":"A package was added to the project (+ 26.78 KiB).","timestamp":1762495257964}
+{"id":105,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 1s 122ms","timestamp":1762495257970}
+{"id":106,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1762495258075}
+{"id":107,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 451ms","timestamp":1762495258526}
+{"id":109,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-change-auth-callme'\nRequire stack:\n- /koishi/node_modules/@koishijs/plugin-market/lib/node/index.js\n- /koishi/node_modules/@koishijs/loader/lib/index.js\n- /koishi/node_modules/koishi/lib/worker/index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (/koishi/node_modules/@koishijs/plugin-market/lib/node/index.js:546:20)\n    at async WebSocket.receive (/koishi/node_modules/@koishijs/plugin-console/node_modules/@koishijs/console/lib/index.js:127:21)","timestamp":1762495260211}
