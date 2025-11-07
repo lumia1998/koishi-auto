@@ -1,9 +1,3 @@
-{
-    "fileLog": false,
-    "consoleLog": true,
-    "fileLogLevel": "debug",
-    "consoleLogLevel": "info",
-    "packetBackend": "auto",
-    "packetServer": "",
-    "o3HookMode": 1
-  }
+version https://git-lfs.github.com/spec/v1
+oid sha256:6881298b7793ffee9385b6d0c7d15c008b17d51cc56b953003bb5c3c5045e166
+size 184
