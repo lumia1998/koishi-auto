@@ -7,9 +7,10 @@
     ```bash
     git clone https://github.com/lumia1998/koishi-auto
     cd koishi-auto
-    NAPCAT_UID=$(id -u) NAPCAT_GID=$(id -g) docker-compose up -d
+    chmod +x start.sh
+    ./start.sh
     ```
-    ![部署命令](https://pic1.imgdb.cn/item/690da1b83203f7be00e12073.png)
+
 
 ## Napcat 配置
 
