@@ -15,12 +15,12 @@ services:
     image: mlikiowa/napcat-docker:latest
     container_name: napcat
     restart: always
-    network_mode: bridge
     ports:
       - 43000:3000
       - 43001:3001
       - 6099:6099
     environment:
+      # 从 start.sh 脚本传入动态获取的 UID 和 GID
       - NAPCAT_UID=${NAPCAT_UID}
       - NAPCAT_GID=${NAPCAT_GID}
     volumes:
