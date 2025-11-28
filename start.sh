@@ -11,9 +11,8 @@ else
 fi
 
 # --- 2. 检查依赖 ---
-if ! command -v docker-compose &> /dev/null
-then
-    echo "错误：未找到 docker-compose 命令。请先安装 Docker 和 Docker Compose。"
+if ! (command -v docker-compose &> /dev/null || command -v docker compose &> /dev/null); then
+    echo "错误：未找到 'docker-compose' 或 'docker compose' 命令。请先安装 Docker 和 Docker Compose。"
     exit 1
 fi
 
@@ -30,8 +29,17 @@ echo "================================================="
 # --- 3. 运行 Docker Compose ---
 # 将获取到的 UID 和 GID 作为环境变量传入 docker-compose up 命令
 # -d 代表后台运行
-NAPCAT_UID=$HOST_UID NAPCAT_GID=$HOST_GID docker-compose up -d
+# 尝试使用 docker-compose up -d
+NAPCAT_UID=$HOST_UID NAPCAT_GID=$HOST_GID docker-compose up -d &> /dev/null
 
+# 检查上一条命令的退出状态码
+if [ $? -ne 0 ]; then
+    echo "⚠️ 'docker-compose up' 执行失败，正在尝试 'docker compose up'..."
+    # 尝试使用 docker compose up -d
+    NAPCAT_UID=$HOST_UID NAPCAT_GID=$HOST_GID docker compose up -d
+fi
+
+# 再次检查退出状态码
 if [ $? -eq 0 ]; then
     echo ""
     echo "🎉 服务启动成功！"
@@ -39,4 +47,5 @@ if [ $? -eq 0 ]; then
 else
     echo ""
     echo "❌ Docker Compose 启动失败，请检查错误信息。"
+    echo "   请确认 Docker 是否正在运行，以及 docker-compose.yml 文件是否正确。"
 fi
