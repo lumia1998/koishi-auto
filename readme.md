@@ -2,7 +2,7 @@
 
 ## 部署
 
-1.  确保您的 Linux 服务器已安装 Docker 功能并配置好科学上网。
+1.  确保您的 Linux 服务器已安装 Docker 功能并配置好科学上网。（无法下载镜像就看最后面）
 2.  通过 SSH 连接到您的服务器并执行以下命令：
     ```bash
     git clone https://github.com/lumia1998/koishi-auto
@@ -33,3 +33,8 @@
     ![获取验证码](https://pic1.imgdb.cn/item/690da4563203f7be00e12843.png)
 5.  进入“插件管理”，打开“系统配置”分组下的 `change-auth-callme` 插件。私聊您的 Bot 发送 `changeauth 5`，之后关闭此插件。
     ![配置插件](https://pic1.imgdb.cn/item/690da4853203f7be00e12858.png)
+
+
+## docker加速配置：
+访问：https://status.anye.xyz/tutorial查看修改教程
+![](https://pic1.imgdb.cn/item/692995e57f8e1c737823b553.png)
