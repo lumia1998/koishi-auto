@@ -26,4 +26,4 @@ services:
     volumes:
       - ./koishi-napcat/napcat/.config/QQ:/app/.config/QQ
       - ./koishi-napcat/napcat/config:/app/napcat/config
-      - ./koishi-napcat/koishi:/koishi
+      - ./koishi-napcat/koishi_ai:/koishi
